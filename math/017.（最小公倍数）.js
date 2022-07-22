@@ -1,4 +1,4 @@
-"use strict";
+ "use strict";
 function main(lines) {
   // lines: Array<string>
   let sampleData = {
